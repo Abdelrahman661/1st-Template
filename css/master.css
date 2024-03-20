@@ -464,7 +464,7 @@ body .b1 {
   font-size: 35px;
   text-decoration: none;
   color: #10cab7;
-  font-weight:bold ;
+  font-weight: bold;
 }
 
 .end .body .p3 {
@@ -486,4 +486,5 @@ body .b1 {
 }
 
 .end .foot .content span {
-  color: #10cab7;}
+  color: #10cab7;
+}
