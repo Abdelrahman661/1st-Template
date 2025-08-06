@@ -1,0 +1,17 @@
+/workspace/src/main/java/com/unitconverter/service/LengthService.java
+/workspace/src/main/java/com/unitconverter/model/ConversionResponse.java
+/workspace/src/main/java/com/unitconverter/exception/InvalidUnitException.java
+/workspace/src/main/java/com/unitconverter/service/TemperatureService.java
+/workspace/src/main/java/com/unitconverter/config/OpenApiConfig.java
+/workspace/src/main/java/com/unitconverter/model/ConversionRequest.java
+/workspace/src/main/java/com/unitconverter/enums/WeightUnit.java
+/workspace/src/main/java/com/unitconverter/enums/LengthUnit.java
+/workspace/src/main/java/com/unitconverter/exception/GlobalExceptionHandler.java
+/workspace/src/main/java/com/unitconverter/service/TimeService.java
+/workspace/src/main/java/com/unitconverter/service/WeightService.java
+/workspace/src/main/java/com/unitconverter/service/ConversionService.java
+/workspace/src/main/java/com/unitconverter/enums/TimeUnit.java
+/workspace/src/main/java/com/unitconverter/enums/TemperatureUnit.java
+/workspace/src/main/java/com/unitconverter/UnitConverterApplication.java
+/workspace/src/main/java/com/unitconverter/controller/ConverterController.java
+/workspace/src/main/java/com/unitconverter/enums/Category.java
