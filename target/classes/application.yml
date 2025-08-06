@@ -1,0 +1,33 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /
+
+spring:
+  application:
+    name: unit-converter-api
+  jackson:
+    default-property-inclusion: NON_NULL
+
+# SpringDoc OpenAPI configuration
+springdoc:
+  api-docs:
+    path: /api-docs
+  swagger-ui:
+    path: /swagger-ui.html
+    operations-sorter: method
+    tags-sorter: alpha
+  info:
+    title: Unit Converter API
+    description: A REST API for converting units across different measurement categories
+    version: 1.0.0
+    contact:
+      name: Unit Converter API
+      email: support@unitconverter.com
+
+logging:
+  level:
+    com.unitconverter: INFO
+    org.springframework: WARN
+  pattern:
+    console: "%d{yyyy-MM-dd HH:mm:ss} - %msg%n"
